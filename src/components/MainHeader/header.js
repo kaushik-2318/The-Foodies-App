@@ -19,10 +19,10 @@ export default function header() {
                 <nav className={classes.nav}>
                     <ul>
                         <li>
-                            <NavLink href='./meals' children="Browser Meal" />
+                            <NavLink href='./meals' child="Browser Meal" />
                         </li>
                         <li>
-                            <NavLink href='./community' children="Foodies Community" />
+                            <NavLink href='./community' child="Foodies Community" />
                         </li>
                     </ul>
                 </nav>
